@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Vignesh 👋
 
-<!--
-**vignesh2002/vignesh2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer at **Barclays** (UK) · ex-**Samsung Research** Bangalore · AWS Certified
 
-Here are some ideas to get you started:
+I build at the intersection of AI products and distributed systems — from Kafka event pipelines and enterprise IAM at work, to autonomous agents and RAG systems outside of it. Previously did 3D computer vision research (Gaussian Splatting, expression retargeting) at Samsung.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Tech
+
+**Languages** · Java · Python · TypeScript · C++  
+**AI / ML** · OpenAI APIs · LangChain · LlamaIndex · PyTorch · Gaussian Splatting  
+**Backend** · Spring Boot · Kafka · REST APIs · FastAPI · WebSockets  
+**Cloud** · AWS ☁️ · Azure · OpenShift · Docker  
+**Data** · MongoDB · Snowflake · PostgreSQL
+
+---
+
+### 📬 Get in touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vignesh-iyer-630b48217/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vignesh02iyer@gmail.com)
