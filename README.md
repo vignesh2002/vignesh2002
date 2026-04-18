@@ -19,4 +19,3 @@ I build at the intersection of AI products and distributed systems — from Kafk
 ### 📬 Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vignesh-iyer-630b48217/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vignesh02iyer@gmail.com)
