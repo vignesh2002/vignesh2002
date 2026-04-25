@@ -6,6 +6,14 @@ I build at the intersection of AI products and distributed systems — from Kafk
 
 ---
 
+### 🔨 Currently building
+
+- 🟢 **[docqa-engine](https://github.com/vignesh2002/docqa-engine)** — open-source Document QA with FastAPI + LlamaIndex + streaming UI
+- 🟢 **[kafka-agent-pipeline](https://github.com/vignesh2002/kafka-agent-pipeline)** — async LLM task dispatch over Kafka topics
+- 🔵 **[3dgs-face](https://github.com/vignesh2002/3dgs-face)** — 3D Gaussian Splatting face reconstruction (open reimplementation)
+
+---
+
 ### 🧰 Tech
 
 **Languages** · Java · Python · TypeScript · C++  
